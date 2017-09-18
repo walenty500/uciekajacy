@@ -1,0 +1,7 @@
+C:\Users\TEMP.VLO30-06.000\documents\visual studio 2010\Projects\Uciekajacyprzycisk\Uciekajacyprzycisk\bin\Debug\Uciekajacyprzycisk.exe
+C:\Users\TEMP.VLO30-06.000\documents\visual studio 2010\Projects\Uciekajacyprzycisk\Uciekajacyprzycisk\bin\Debug\Uciekajacyprzycisk.pdb
+C:\Users\TEMP.VLO30-06.000\documents\visual studio 2010\Projects\Uciekajacyprzycisk\Uciekajacyprzycisk\obj\x86\Debug\Uciekajacyprzycisk.Form1.resources
+C:\Users\TEMP.VLO30-06.000\documents\visual studio 2010\Projects\Uciekajacyprzycisk\Uciekajacyprzycisk\obj\x86\Debug\Uciekajacyprzycisk.Properties.Resources.resources
+C:\Users\TEMP.VLO30-06.000\documents\visual studio 2010\Projects\Uciekajacyprzycisk\Uciekajacyprzycisk\obj\x86\Debug\Uciekajacyprzycisk.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-06.000\documents\visual studio 2010\Projects\Uciekajacyprzycisk\Uciekajacyprzycisk\obj\x86\Debug\Uciekajacyprzycisk.exe
+C:\Users\TEMP.VLO30-06.000\documents\visual studio 2010\Projects\Uciekajacyprzycisk\Uciekajacyprzycisk\obj\x86\Debug\Uciekajacyprzycisk.pdb
